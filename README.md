@@ -37,7 +37,6 @@ Start in the App.js file and read the instructions there.
 Your search bar header should look something like this:
 ![search bar](/assets/ig_search_bar.png)
 
----
 
 Your posts should look something like this:
 ![insta post](/assets/ig_post.png)
