@@ -24,7 +24,7 @@ export default PostsPage;
 
 
 
-
+// ...console.log
 
 
 // const PostsPage = (props) => {
